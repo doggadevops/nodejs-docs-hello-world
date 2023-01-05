@@ -10,7 +10,7 @@ phases:
   pre_build:
     commands:
       - npm install
-      - npm start
+      
   build:
     commands:
       - echo "Sample node app"
